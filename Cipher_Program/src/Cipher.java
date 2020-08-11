@@ -20,9 +20,12 @@ public class Cipher {
 
 		// - PROGRAM BODY - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 		// - - - - - - - - -
-
+		System.out.println("Programming Fundamentals");
+		System.out.println("NAME: Kip Brower");
+		System.out.println("PROGRAMMING ASSIGNMENT 1");
+		System.out.println(" ");
 		System.out.println("Welcome to the Cipher Program.");
-		System.out.println("Please enter five digits between 0 to 19");
+		System.out.println("Please enter five numbers between 0 to 19");
 		Scanner userNumber = new Scanner(System.in);
 
 		// - - USER INPUT #1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
